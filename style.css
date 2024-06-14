@@ -8,7 +8,7 @@ body{
 #boxes{
     display: flex;
     gap: 20px;
-    /* background-color: aqua; */
+  
     margin-left: 3rem;
     margin-top: 4rem;
 
@@ -33,25 +33,10 @@ body{
     right: 30px;
     display: flex;
     flex-direction: column;
-
-    /* align-items: flex-end; */
-    /* flex-direction: column; */
-    /* overflow: hidden; */
     padding: 20px;
-    /* background-color: aqua; */
-
 
 }
-/* #toastBox{
-    position: absolute;
-    width: 20rem;
-    /* height: 4.3rem; */
-    /* height: 33rem;
-    background-color: aqua;
-    right: 2rem;
-    bottom: 2rem; */
-    
-/* } */ 
+
 .toast{
     display: flex;
     align-items: center;
